@@ -17,6 +17,8 @@ $ #python3 train_MixtureModel.py
 ## Result
 ![image](https://github.com/JeffreyHoa/legull/blob/master/image/figure_1.png)
 
+The horizontal axis is sentence id. We can see that Baysian model and wordnet model have consistent results.
+
 ## References
 
 http://www.austlii.edu.au/databases.html
