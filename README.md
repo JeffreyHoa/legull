@@ -14,6 +14,8 @@ Please read ./report/topK_module.pdf
 $ #python3 train_MixtureModel.py
 ```
 
+## Result
+![image](https://github.com/JeffreyHoa/legull/blob/master/image/figure_1.png)
 
 ## References
 
