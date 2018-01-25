@@ -1,0 +1,142 @@
+############# I'm default separator ##########0
+maintain:1 failure:1 theact:1 property:1 common:1 repair:1 62:1 
+order:3 area:2 villa:2 remain:1 appellant:1 bin:1 building:1 comply:1 sought:1 drivewayparking:1 matter:1 62:1 section:1 act:1 15:1 wooden:1 property:1 code:1 1322428:1 second:1 16:1 adjudicator:1 sc:1 repaired:1 appeal:1 brick:1 australia:1 common:1 fence:1 wall:1 65a:1 
+section:1 act:1 1531:1 determined:1 inappropriate:1 application:1 deal:1 65:1 adjudicator:1 order:1 62:1 considered:1 
+following:1 order:1 adjudicator:1 
+order:3 appellant:2 seek:2 invalidate:1 addition:1 decision:1 24:1 tribunal:1 maintain:1 affirm:1 include:1 replacement:1 repair:1 minute:1 62:1 act:1 property:1 area:1 owner:1 corporation:1 adjudicator:1 timber:1 egm:1 common:1 surrounding:1 fence:1 garbage:1 held:1 
+wall:6 engineering:2 2007:2 request:2 owner:2 corporation:2 villa:2 evidence:2 appellant:1 damage:1 undertaken:1 proper:1 long:1 building:1 manager:1 meet:1 report:1 submitted:1 courtyard:1 repeated:1 ago:1 repair:1 given:1 declared:1 remains:1 workmanlike:1 manner:1 15:1 aware:1 consultant:1 code:1 unstable:1 defective:1 vehicle:1 16:1 emergency:1 adjudicator:1 requirement:1 dated:1 despite:1 damaged:1 clark:1 stratum:1 question:1 repaired:1 brick:1 australia:1 adjudication:1 defect:1 
+15:1 stratum:1 lot:1 owner:1 stated:1 scheme:1 corporation:1 brick:1 16:1 work:1 adjudicator:1 accept:1 surround:1 required:1 
+act:5 adjudicator:5 62:3 application:3 order:3 comply:2 owner:2 corporation:2 failed:2 65a:2 obligation:1 written:1 appellant:1 failure:1 making:1 tribunal:1 152:1 consideration:1 dispute:1 maintain:1 reached:1 serviceable:1 sought:1 evidence:1 party:1 duty:1 repair:1 given:1 find:1 provided:1 reason:1 dismiss:1 state:1 finding:1 presented:1 went:1 properly:1 consider:1 real:1 dealt:1 good:1 adequately:1 refused:1 satisfied:1 address:1 wall:1 
+appellant:2 work:2 number:1 proper:1 building:1 meet:1 bca:1 submitted:1 report:1 photograph:1 courtyard:1 engineering:1 extract:1 stated:1 rely:1 australian:1 2007:1 repair:1 workmanlike:1 manner:1 15:1 lot:1 code:1 board:1 defective:1 emergency:1 16:1 opinion:1 seek:1 clark:1 wall:1 
+letter:2 respondent:2 owner:2 corporation:2 possible:2 carried:1 competent:1 tribunal:1 tradesperson:1 25:1 replacement:1 attending:1 repair:1 advising:1 declared:1 promptly:1 matter:1 achieved:1 ensure:1 work:1 attend:1 indicated:1 dated:1 licensed:1 sent:1 soon:1 effort:1 unfortunately:1 hearing:1 requiring:1 
+nelson:2 submission:2 mr:2 proceeded:1 appellant:1 quote:1 interested:1 committee:1 executive:1 building:1 manager:1 unreasonable:1 dispute:1 current:1 objectionable:1 standard:1 obtain:1 behaviour:1 code:1 existing:1 structure:1 received:1 assessment:1 stratum:1 bring:1 complains:1 repairreplace:1 person:1 state:1 relation:1 
+appeal:3 order:3 act:2 appealed:2 provides:1 determination:1 revoking:1 amending:1 determine:1 substituting:1 181:1 tribunal:1 adjudicator:1 admit:1 evidence:1 affirming:1 177:1 
+ground:2 appellant:1 submitted:1 application:1 appeal:1 consider:1 filed:1 failed:1 adjudicator:1 
+concerned:2 condition:1 appellant:1 issue:1 late:1 appears:1 owner:1 corporation:1 brick:1 vehicle:1 reversed:1 fence:1 wall:1 
+building:3 repair:3 tribunal:2 meet:2 report:2 2007:2 insufficient:2 doe:2 evidence:2 wall:2 appellant:1 totality:1 proper:1 evidentiary:1 argues:1 bca:1 support:1 photograph:1 determine:1 needed:1 standard:1 allow:1 required:1 workmanlike:1 evident:1 manner:1 code:1 photo:1 ensure:1 emergency:1 masonry:1 satisfied:1 including:1 material:1 australia:1 inadequate:1 state:1 
+fence:3 r:1 agm:1 replace:1 maintain:1 resolved:1 determined:1 13224288:1 invalid:1 owner:1 corporation:1 colorbond:1 adjudicator:1 repair:1 sc:1 clearly:1 motion:1 considered:1 need:1 
+maintenance:1 determine:1 assist:1 soon:1 doe:1 tribunal:1 work:1 exactly:1 evidence:1 required:1 summary:1 
+owner:3 corporation:3 ensure:2 provided:2 evidence:2 carried:1 obligation:1 taken:1 step:1 decision:1 building:1 consideration:1 currently:1 submitted:1 report:1 replacement:1 2007:1 respondent:1 repair:1 given:1 promptly:1 matter:1 62:1 conceded:1 act:1 taking:1 adjudicator:1 possible:1 compliance:1 action:1 issue:1 clarke:1 effort:1 mr:1 address:1 requiring:1 
+report:2 agm:1 owner:1 consider:1 conclude:1 corporation:1 clarke:1 rely:1 2007:1 tribunal:1 obtain:1 building:1 evidence:1 proposing:1 able:1 mr:1 intended:1 
+duty:3 stratum:2 court:1 priority:1 35042:1 constraint:1 wale:1 2006:1 supreme:1 working:1 maintain:1 make:1 scheme:1 repair:1 seiwa:1 62:1 considered:1 attended:1 practical:1 property:1 pty:1 owner:1 1157:1 asset:1 serve:1 fail:1 condition:1 discharging:1 nswsc:1 common:1 good:1 purpose:1 clear:1 v:1 south:1 plan:1 
+wall:3 bca:2 clark:2 suitable:2 mr:2 unit:1 specified:1 footing:1 making:1 tribunal:1 acceptable:1 load:1 report:1 stated:1 courtyard:1 2007:1 modification:1 expert:1 standard:1 capable:1 required:1 15:1 interval:1 3700:1 existing:1 withstanding:1 requirement:1 horizontal:1 noncompliance:1 built:1 pier:1 adding:1 engaged:1 dealt:1 evidence:1 
+act:1 concludes:1 owner:1 corporation:1 failed:1 tribunal:1 62:1 comply:1 
+report:4 wall:4 tribunal:2 obligation:1 obtained:1 proper:1 building:1 old:1 courtyard:1 amended:1 changed:1 2007:1 expert:1 repair:1 workmanlike:1 62:1 manner:1 shall:1 act:1 accordance:1 find:1 builder:1 code:1 owner:1 defective:1 corporation:1 vehicle:1 emergency:1 work:1 order:1 particular:1 clark:1 condition:1 consider:1 engage:1 australia:1 mr:1 hit:1 
+decision:2 24:2 tribunal:2 included:2 replacement:2 area:2 adjudicator:2 surround:2 timber:2 motion:2 egm:2 colorbond:2 garbage:2 held:2 appellant:1 invalid:1 adopted:1 clarity:1 considered:1 submission:1 owner:1 corporation:1 order:1 note:1 passed:1 resolution:1 accepts:1 fence:1 challenged:1 
+lot:2 wall:2 building:1 report:1 courtyard:1 determine:1 expert:1 62:1 shall:1 act:1 15:1 builder:1 code:1 owner:1 corporation:1 2014:1 16:1 inspect:1 31:1 compliant:1 licensed:1 pursuant:1 engage:1 australia:1 external:1 
+expert:2 pursuant:1 recommendation:1 30:1 recommended:1 undertake:1 owner:1 implement:1 engaged:1 tradesman:1 2014:1 corporation:1 causing:1 qualified:1 proper:1 work:1 building:1 workmanlike:1 order:1 manner:1 shall:1 
+application:1 order:1 affirmed:1 adjudicator:1 scs1322428:1 
+############# I'm default separator ##########1
+money:1 breach:1 management:1 contract:1 alleged:1 order:1 
+respondent:3 applicant:2 agreement:1 unit:1 financial:1 failure:1 consequence:1 c:1 process:1 money:1 arranging:1 part:1 sought:1 b:1 995000:1 internal:1 application:1 filed:1 management:1 order:1 alleging:1 tenant:1 explaining:1 loss:1 sum:1 system:1 
+consumer:2 management:2 claim:2 legislation:2 agreement:1 applicant:1 hear:1 referred:1 tribunal:1 supplier:1 service:1 limit:1 premise:1 determine:1 party:1 respondent:1 jurisdiction:1 regard:1 application:1 rental:1 respect:1 brought:1 pursuant:1 entered:1 
+hearing:4 recorded:1 set:1 owing:1 place:1 decision:1 reason:1 giving:1 16:1 case:1 day:1 party:1 unavailability:1 reserved:1 pending:1 11:1 direction:1 19:1 sound:1 settled:1 held:1 
+m:3 evidence:3 finding:2 document:2 seiler:1 number:1 applicant:1 considerable:1 making:1 endeavour:1 recount:1 content:1 mcmullen:1 feature:1 balance:1 refer:1 main:1 robinson:1 probability:1 given:1 onus:1 shall:1 oral:1 practical:1 proof:1 tendered:1 witness:1 
+unit:4 applicant:2 respondent:2 group:1 30:1 property:1 owner:1 managed:1 prior:1 elanora:1 rental:1 firm:1 subject:1 customer:1 purchased:1 proceeding:1 
+unit:2 applicant:2 brochure:2 real:2 advertised:1 beach:1 site:1 pottsville:1 respondent:1 following:1 away:1 national:1 management:1 respect:1 received:1 stayz:1 holiday:1 material:1 subscribe:1 related:1 potential:1 state:1 estatecom:1 
+advertised:1 written:1 agreement:1 entered:1 unit:1 30:1 realestatecomau:1 window:1 office:1 management:1 party:1 presumably:1 card:1 respondent:1 state:1 
+brochure:3 agreement:2 referred:2 party:2 advertising:2 agreed:1 unit:1 superseded:1 applicant:1 advertise:1 claim:1 failed:1 management:1 rental:1 maintained:1 site:1 respondent:1 b:1 
+agreement:5 online:5 unit:4 applicant:3 advertising:3 booking:3 party:2 respondent:2 advertised:1 mentioned:1 site:1 perform:1 subsequently:1 pay:1 complication:1 charged:1 rent:1 allegation:1 regard:1 provided:1 contracted:1 requirement:1 crossed:1 agreed:1 15000:1 payment:1 realestatecomau:1 contract:1 away:1 removed:1 system:1 
+performed:1 unit:1 realestatecomau:1 advertise:1 window:1 advertising:1 respondent:1 card:1 satisfied:1 
+applicant:3 agreement:2 advertising:2 site:2 agreed:1 relates:1 obtained:1 realestatecomau:1 permanent:1 claim:1 rental:1 information:1 succeed:1 
+advertised:1 used:1 agreement:1 applicant:1 one:1 specified:1 claim:1 site:1 advertising:1 respondent:1 placed:1 succeed:1 
+obligation:2 applicant:2 respondent:2 various:1 agreement:1 part:1 claim:1 satisfy:1 signed:1 doe:1 contract:1 legal:1 advise:1 succeed:1 term:1 advice:1 
+unit:4 applicant:3 term:3 respondent:3 stafford:3 booking:3 agreement:2 short:2 m:2 advised:2 period:2 swap:2 note:2 document:2 house:2 number:1 inter:1 ownershad:1 longer:1 permanent:1 email:1 accepting:1 sign:1 interested:1 accept:1 advise:1 houseswap:1 file:1 outlining:1 past:1 interest:1 known:1 xmas:1 rent:1 initially:1 jess:1 alia:1 block:1 time:1 contact:1 flat:1 deposit:1 client:1 genuine:1 taking:1 owner:1 provided:1 month:1 employed:1 detail:1 terminated:1 rental:1 advertising:1 dated:1 responsible:1 letting:1 person:1 employee:1 prospective:1 holiday:1 tenant:1 generate:1 primarily:1 evidence:1 state:1 fence:1 run:1 handwritten:1 indicating:1 
+holiday:4 unit:3 m:3 rental:3 advertised:2 applicant:2 window:2 web:2 site:2 term:2 short:2 brochure:2 display:2 aware:2 stafford:2 email:1 permanent:1 mcmullen:1 subsequently:1 stating:1 detail:1 replied:1 advertising:1 requesting:1 went:1 sent:1 advertise:1 listed:1 limited:1 overseas:1 
+booking:1 agreed:1 agreement:1 applicant:1 internal:1 sent:1 email:1 m:1 unable:1 management:1 probably:1 advertising:1 respondent:1 obtain:1 stafford:1 concern:1 11:1 follows:1 limited:1 
+applicant:7 tenant:6 respondent:3 agreement:2 emailed:2 site:2 detail:2 outlined:2 satisfied:2 obtained:1 unit:1 returning:1 term:1 unless:1 approved:1 majority:1 known:1 m:1 previously:1 rent:1 whilst:1 provision:1 away:1 secured:1 act:1 genuine:1 accepted:1 management:1 contracted:1 success:1 rental:1 stafford:1 arrangement:1 advertising:1 placed:1 problem:1 condition:1 prospective:1 using:1 australia:1 presumably:1 contacted:1 clear:1 potential:1 overseas:1 
+negligent:1 advertised:1 unit:1 agreement:1 breach:1 way:1 provided:1 tenant:1 came:1 contract:1 respondent:1 satisfied:1 restricted:1 forward:1 
+applicant:2 tax:2 say:2 income:2 5248000:1 place:1 record:1 1451462:1 need:1 quantum:1 2011:1 determine:1 respondent:1 following:1 loss:1 3800700:1 claim:1 rental:1 finding:1 impossible:1 received:1 1447300:1 liable:1 resulting:1 challenged:1 expense:1 
+application:1 dismissed:1 
+############# I'm default separator ##########2
+order:2 previous:1 renewal:1 tribunal:1 compliedwith:1 appropriate:1 
+vehicle:2 proceeding:2 applicant:1 2004:1 recover:1 purchase:1 sought:1 ford:1 motor:1 2000000:1 explorer:1 131194:1 related:1 respondent:1 mv:1 19:1 purchased:1 price:1 
+odometer:1 sale:1 vehicle:1 reading:1 km:1 137212:1 shown:1 
+vehicle:2 subject:2 applicant:1 sold:1 mechanical:1 month:1 warranty:1 form:1 5000kms:1 respondent:1 immediately:1 23:1 reported:1 problem:1 
+carried:2 repair:2 trading:1 written:1 agreement:1 27:1 late:1 reached:1 intervention:1 vehicle:1 department:1 warranty:1 party:1 subject:1 respondent:1 fair:1 following:1 dated:1 
+respondent:3 repair:2 evidence:2 agreement:1 applicant:1 effect:1 asserted:1 opportunity:1 tribunal:1 sic:1 reached:1 department:1 party:1 proceeding:1 trading:1 brough:1 vehicle:1 assistance:1 agreed:1 understands:1 denied:1 fair:1 completed:1 agreementsthe:1 
+tribunal:2 proceeding:2 heard:1 applicant:1 included:1 argument:1 filed:1 gosford:1 following:1 order:1 hearing:1 
+order:2 agreement:1 paragraph:1 difference:1 extending:1 reached:1 referred:1 previously:1 reason:1 expired:1 warranty:1 party:1 significant:1 identical:1 term:1 period:1 
+tribunal:3 vehicle:2 paragraph:1 failure:1 decision:1 consumer:1 refund:1 price:1 law:1 australian:1 major:1 lieu:1 260:1 purchase:1 reason:1 work:1 indicated:1 order:1 set:1 ordering:1 thereof:1 justified:1 meaning:1 satisfied:1 
+vehicle:3 applicant:2 complete:1 midjuly:1 30:1 short:1 repaired:1 returned:1 sought:1 satisfaction:1 13:1 work:1 respondent:1 ordered:1 delay:1 
+act:1 rehearing:1 applicant:1 application:1 filed:1 21:1 68:1 
+proceeding:2 consideration:1 rehearing:1 applicant:1 renewal:1 application:1 basis:1 hearing:1 renew:1 disposed:1 24:1 tribunal:1 fresh:1 refused:1 preferable:1 applied:1 
+heard:1 renewal:1 application:1 constitute:1 17:1 gosford:1 proceeding:1 
+order:3 applicant:2 tribunal:2 application:2 number:1 requires:1 place:1 renewal:1 service:1 25:1 sought:1 provide:1 given:1 mv:1 rectify:1 receipted:1 proceeding:1 faulty:1 registry:1 1339572:1 newcastle:1 seek:1 60000:1 payment:1 implicit:1 good:1 circumstance:1 
+important:1 renewal:1 application:1 hearing:1 came:1 course:1 ordered:1 direction:1 note:1 
+order:2 following:1 19:1 set:1 
+document:1 required:1 rely:1 exchange:1 party:1 occasion:1 direction:1 intended:1 
+order:2 usual:1 contains:1 document:1 produced:1 notation:1 copy:1 foot:1 follows:1 evidence:1 hearing:1 19:1 set:1 
+notation:2 order:2 page:1 general:1 warns:1 risk:1 repeated:1 party:1 complying:1 dated:1 19:1 term:1 
+extension:2 sought:2 exchange:2 party:2 wrote:1 compliance:1 registry:1 letter:1 document:1 occur:1 response:1 complied:1 procedural:1 dated:1 order:1 direction:1 considered:1 date:1 indicating:1 
+relisted:1 tribunal:1 18:1 gosford:1 direction:1 including:1 order:1 matter:1 follows:1 
+order:2 act:1 2001:1 compliance:1 included:1 sent:1 thereof:1 302:1 notation:1 consumer:1 copy:1 contained:1 foot:1 trader:1 tribunal:1 party:1 tenancy:1 direction:1 relation:1 respect:1 
+respondent:2 received:2 document:2 applicant:1 copy:1 tribunal:1 26:1 representative:1 direction:1 forwarding:1 subsequently:1 letter:1 acknowledged:1 registry:1 newcastle:1 complied:1 procedural:1 dated:1 having:1 bundle:1 mr:1 19:1 wall:1 
+sent:3 document:3 applicant:2 respondent:2 facsimile:1 renewal:1 application:1 registry:1 16:1 tendered:1 tribunal:1 date:1 procedural:1 cover:1 dated:1 direction:1 serve:1 comply:1 received:1 proceeding:1 
+compliance:1 extension:1 sent:1 letter:1 registrar:1 granted:1 tribunal:1 party:1 dated:1 direction:1 follows:1 
+copy:2 respondent:2 applicant:1 opportunity:1 attached:1 consequence:1 simply:1 ample:1 point:1 alerted:1 letter:1 provide:1 warning:1 suffice:1 failed:1 18:1 possible:1 order:1 serve:1 noncompliance:1 nonetheless:1 registrar:1 document:1 contain:1 
+document:2 provided:2 direction:2 applicant:1 hearing:1 party:1 accordance:1 
+determined:1 renewal:1 applicant:1 document:1 produced:1 rely:1 consequence:1 tribunal:1 proceeding:1 
+tribunal:3 proceeding:2 serious:1 file:1 written:1 regard:1 view:1 material:1 produced:1 decision:1 party:1 respondent:1 suffered:1 prejudice:1 hearing:1 resulting:1 
+report:2 expert:2 party:2 applicant:1 view:1 elected:1 referred:1 fairness:1 form:1 tribunal:1 meet:1 issued:1 respondent:1 appropriate:1 warning:1 occasion:1 notwithstanding:1 provided:1 prior:1 procedural:1 order:1 notation:1 
+respondent:2 criticize:1 applicant:1 fit:1 document:1 indicated:1 necessary:1 regarded:1 qualified:1 sufficiently:1 saw:1 position:1 expert:1 understood:1 evidence:1 mr:1 relation:1 wall:1 indicating:1 
+represented:2 applicant:2 respondent:2 mr:2 wall:2 oral:1 sworn:1 attended:1 gave:1 robinson:1 evidence:1 colin:1 person:1 manager:1 hearing:1 
+document:2 applicant:1 included:1 addition:1 bundle:1 provided:1 motor:1 vehicle:1 sale:1 contract:1 evidence:1 following:1 dated:1 tendered:1 19:1 relied:1 
+document:2 heard:1 sale:1 provided:1 previously:1 additional:1 contract:1 tribunal:1 evidence:1 proceeding:1 
+work:3 oral:1 allegation:1 faulty:1 comply:1 deal:1 defective:1 sought:1 attempt:1 overseeing:1 vehicle:1 end:1 tribunal:1 respondent:1 evidence:1 mr:1 order:1 mainly:1 beginning:1 wall:1 proceeding:1 
+oral:1 appeared:1 proceeding:1 reference:1 applicant:1 renewal:1 misconceive:1 robinson:1 argument:1 document:1 produced:1 mr:1 nature:1 
+noncompliancewith:1 issue:1 specified:1 appropriately:1 case:1 ordersand:1 tribunal:1 work:1 procedural:1 order:1 rectify:1 19:1 circumstance:1 
+consumer:2 complaint:2 vehicle:2 applicant:1 fitness:1 raised:1 initial:1 sale:1 sought:1 law:1 australian:1 proceeding:1 regard:1 including:1 effectively:1 finding:1 issue:1 rehear:1 finally:1 purpose:1 related:1 dealt:1 
+applicant:5 respondent:4 vehicle:4 work:3 order:3 trackside:2 business:2 automotive:2 mr:2 wall:2 specific:1 carried:1 number:1 certain:1 show:1 17:1 dealing:1 falling:1 complaint:1 arranged:1 60613:1 included:1 relating:1 called:1 returned:1 history:1 attending:1 repair:1 declined:1 following:1 resolved:1 matter:1 occasion:1 told:1 b:1 oral:1 reason:1 delivery:1 complied:1 took:1 behalf:1 person:1 evidence:1 
+applicant:3 respondent:2 told:2 vehicle:2 work:2 asserted:1 mr:1 date:1 dispute:1 premise:1 needed:1 party:1 attended:1 telephoned:1 fact:1 ready:1 duly:1 determined:1 30:1 collect:1 requested:1 completed:1 collection:1 come:1 wall:1 
+applicant:2 vehicle:2 ready:2 attended:1 premise:1 contacted:1 discover:1 mr:1 wall:1 told:1 asserts:1 
+fixed:2 mirror:2 mr:2 wall:2 delivered:1 remained:1 applicant:1 personally:1 noted:1 engine:1 vehicle:1 13:1 light:1 respondent:1 immediately:1 conceded:1 asserts:1 
+applicant:2 vehicle:2 respondent:2 14:1 start:1 centre:1 service:1 gorokan:1 registration:1 provided:1 certificate:1 roadworthy:1 16:1 apparently:1 road:1 purpose:1 contacted:1 tested:1 directed:1 
+applicant:1 leaking:1 lpg:1 premise:1 nicole:1 spoke:1 complaining:1 respondent:1 23:1 asserts:1 
+applicant:1 renewal:1 application:1 returned:1 vehicle:1 13:1 day:1 tribunal:1 respondent:1 dated:1 note:1 proceeding:1 
+specific:1 carry:1 ensure:1 serviceable:1 end:1 vehicle:1 wheel:1 tribunal:1 work:1 respondent:1 ordered:1 attend:1 following:1 aligned:1 
+claim:3 applicant:2 warranty:2 rectification:1 addition:1 investigate:1 complaint:1 remained:1 included:1 engine:1 existed:1 respondent:1 extended:1 following:1 vehicle:1 work:1 light:1 including:1 able:1 respect:1 30:1 additional:1 
+warranty:2 extended:2 complaint:2 proceeding:2 paragraph:1 item:1 period:1 raised:1 referred:1 claim:1 46:1 work:1 subject:1 ordered:1 following:1 order:1 
+vehicle:2 invoice:1 expend:1 item:1 following:1 applicant:1 gas:1 operable:1 6600:1 leak:1 additional:1 render:1 work:1 amount:1 alan:1 ross:1 investigation:1 required:1 respect:1 asserts:1 
+fact:2 f:1 item:1 issue:1 repaired:1 defective:1 produced:1 claimed:1 disallowed:1 evidence:1 warranty:1 d:1 insufficient:1 warranted:1 proceeding:1 
+period:4 applicant:2 registration:2 insurance:2 sought:2 vehicle:2 addition:1 claimed:1 pro:1 tribunal:1 rata:1 slip:1 estimated:1 87000:1 alleged:1 provided:1 month:1 claim:1 recovery:1 cost:1 paid:1 reimbursement:1 disallows:1 nonuse:1 particular:1 green:1 operable:1 unable:1 satisfactory:1 evidence:1 
+applicant:1 report:1 sought:1 claimed:1 provide:1 160000:1 cost:1 recovery:1 claim:1 tribunal:1 potts:1 paid:1 ordered:1 dealt:1 later:1 mr:1 reason:1 respect:1 sum:1 
+travel:2 cost:2 amount:2 estimated:1 showing:1 applicant:1 claimed:1 unable:1 vehicle:1 satisfactory:1 additional:1 work:1 incurred:1 produced:1 90000:1 evidence:1 paid:1 claim:1 disallowed:1 drive:1 sum:1 
+applicant:3 respondent:2 item:1 damage:1 effect:1 claimed:1 tribunal:1 ability:1 compensatory:1 money:1 abandoned:1 asked:1 confidence:1 repair:1 total:1 880000:1 claim:1 work:1 order:1 approximately:1 lost:1 completed:1 hearing:1 sum:1 
+mirror:2 respondent:2 caused:1 applicant:1 unable:1 claim:1 replacement:1 denied:1 warranty:1 apparently:1 obtain:1 complied:1 save:1 order:1 fix:1 replaced:1 expense:1 
+applicant:3 caused:2 remain:1 item:1 failure:1 largest:1 warranty:1 need:1 asserts:1 dispute:1 converter:1 support:1 engine:1 catalytic:1 warning:1 amount:1 300000:1 produced:1 claim:1 446200:1 cost:1 light:1 continuing:1 issue:1 arising:1 replaced:1 quotation:1 
+mr:3 wall:3 warranty:2 respondent:2 item:1 applicant:1 simply:1 converter:1 tradesman:1 contractor:1 catalytic:1 repair:1 proceeding:1 oral:1 attended:1 variously:1 claim:1 responsibility:1 work:1 order:1 replace:1 opinion:1 problem:1 using:1 denied:1 subject:1 evidence:1 
+opportunity:2 respondent:2 repair:2 ought:1 applicant:1 converter:1 provided:1 catalytic:1 claim:1 given:1 complained:1 mr:1 upheld:1 wall:1 
+applicant:2 warranty:2 strut:1 asserted:1 simply:1 complaint:1 basis:1 abandoned:1 bonnet:1 prove:1 alleged:1 repair:1 conceded:1 remaining:1 claim:1 able:1 wall:1 deal:1 resealed:1 headlight:1 mr:1 hearing:1 relation:1 replaced:1 
+tribunal:2 proceeding:2 regard:2 vehicle:2 number:1 applicant:1 consumer:1 opportunity:1 warranty:1 date:1 kilometer:1 old:1 renewal:1 fit:1 previously:1 law:1 australian:1 alleged:1 previous:1 odometer:1 purchase:1 significant:1 finding:1 having:1 issue:1 noted:1 raise:1 dealt:1 purpose:1 meaning:1 
+respondent:5 tribunal:2 work:2 mr:2 wall:2 carried:1 performed:1 investigate:1 occur:1 opportunity:1 manager:1 support:1 persuaded:1 submitted:1 allegedly:1 investigation:1 appropriate:1 repair:1 proceeding:1 provided:1 claim:1 oversight:1 vehicle:1 adjourn:1 behalf:1 witness:1 licensed:1 issue:1 additional:1 documentary:1 person:1 mechanic:1 circumstance:1 
+potts:3 mr:3 tribunal:2 expert:2 evidence:2 direction:1 respondent:1 applicant:1 report:1 properly:1 called:1 qualified:1 giving:1 requirement:1 colin:1 principally:1 practice:1 cross:1 examination:1 relied:1 accepts:1 
+report:2 potts:2 mr:2 conclusion:1 applicant:1 page:1 state:1 vehicle:1 inspected:1 road:1 follows:1 tested:1 formed:1 note:1 summary:1 accordingly:1 
+item:1 reference:1 converter:1 report:1 exception:1 deal:1 needing:1 catalytic:1 doe:1 expert:1 tribunal:1 subject:1 directly:1 order:1 replaced:1 
+applicant:1 converter:1 inter:1 eln:1 ford:1 catalytic:1 contained:1 follows:1 alia:1 evidence:1 invoice:1 dated:1 relation:1 set:1 
+faulty:1 applicant:1 support:1 converter:1 remaining:1 purchase:1 engine:1 catalytic:1 existing:1 needed:1 warranty:1 light:1 probably:1 extended:1 evidence:1 defect:1 complaint:1 replaced:1 
+tribunal:2 act:1 2001:1 renewal:1 applicant:1 set:1 application:1 deal:1 trader:1 consumer:1 43:1 tenancy:1 useful:1 source:1 provision:1 follows:1 relevant:1 jurisdiction:1 
+order:2 accordance:2 application:1 notice:1 open:1 sub:1 prescribed:1 tribunal:1 requirement:1 b:1 operation:1 suspended:1 brought:1 
+proceeding:2 rerun:2 case:2 dealt:2 tribunal:2 tribunalmuch:1 wasted:1 applicant:1 view:1 renewal:1 particularly:1 effect:1 sought:1 matter:1 opportunity:1 consequence:1 evidence:1 hearing:1 revisiting:1 presenting:1 
+order:2 carried:1 issue:1 applicant:1 instance:1 adjudicate:1 30:1 opportunity:1 tribunal:1 work:1 respondent:1 appropriate:1 fact:1 complied:1 
+applicant:2 work:2 view:1 allowing:1 week:1 13:1 tribunal:1 date:1 complete:1 renewal:1 sought:1 ground:1 respondent:1 deadline:1 complied:1 effectively:1 order:1 turn:1 issue:1 waived:1 common:1 completed:1 
+respondent:2 evidence:2 applicant:1 tribunal:1 reasonable:1 meet:1 comply:1 balance:1 based:1 probability:1 standard:1 lack:1 failed:1 work:1 unsuccessful:1 satisfied:1 order:1 noting:1 workmanship:1 attempted:1 documentary:1 completed:1 
+order:2 having:1 aligned:1 regard:1 relation:1 serviceable:1 end:1 vehicle:1 wheel:1 tribunal:1 work:1 follows:1 respondent:1 complied:1 evidence:1 satisfied:1 respect:1 carefully:1 witness:1 considered:1 
+warranty:2 test:1 determination:1 following:1 item:1 applicant:1 17269:1 completed:1 claim:1 replacement:1 compensated:1 mirror:1 tribunal:1 cost:1 respondent:1 civil:1 entitled:1 satisfied:1 leaf:1 
+317269:1 pay:1 item:1 applicant:1 434a:1 tribunal:1 respondent:1 order:1 respect:1 accordance:1 sum:1 
+applicant:1 submission:1 tribunal:1 work:1 satisfied:1 appropriate:1 accepts:1 order:1 circumstance:1 
+invoice:1 following:1 applicant:1 evidenced:1 addition:1 6600:1 cost:1 case:1 434a:1 tribunal:1 investigation:1 incurred:1 allan:1 ross:1 satisfied:1 order:1 mr:1 sum:1 circumstance:1 
+available:1 applicant:1 30:1 travelling:1 premise:1 vehicle:1 tribunal:1 respondent:1 4800:1 allow:1 following:1 fee:1 collection:1 taxi:1 
+363669:1 money:1 item:1 amount:1 total:1 order:1 sum:1 accordingly:1 
+applicant:2 report:2 claim:1 required:1 cost:1 provide:1 tribunal:1 potts:1 preparation:1 understood:1 18:1 mr:1 direction:1 
+order:2 misunderstood:1 require:1 applicant:1 sense:1 report:1 way:1 mandatory:1 produce:1 doe:1 expert:1 party:1 direction:1 
+ought:1 applicant:1 producing:1 report:1 160000:1 cost:1 tribunal:1 incurred:1 substantial:1 reimbursed:1 considered:1 sum:1 
+term:2 evidence:2 taken:1 applicant:1 warranty:1 tribunal:1 potts:1 account:1 converter:1 report:1 catalytic:1 respondent:1 regard:1 doubt:1 claim:1 significant:1 seriously:1 finding:1 assisted:1 factor:1 mr:1 challenged:1 
+report:2 tribunal:2 order:1 regard:1 usual:1 cost:1 doe:1 meaning:1 obtaining:1 applied:1 exceptional:1 term:1 mechanic:1 proceeding:1 
+party:2 deter:1 affordable:1 facing:1 encouraged:1 tribunal:1 ability:1 exceptional:1 deem:1 access:1 fit:1 relief:1 efficiently:1 cost:1 possible:1 order:1 threat:1 bring:1 cheaply:1 case:1 howsoever:1 willingness:1 circumstance:1 
+order:2 view:1 report:1 warrant:1 cost:1 case:1 tribunal:1 expert:1 respondent:1 exceptional:1 circumstance:1 
+order:2 reviewed:1 having:1 renewal:1 submission:1 context:1 determine:1 tribunal:1 party:1 extent:1 complied:1 proceeding:1 
+claim:2 requisite:1 proof:1 applicant:1 reason:1 warranty:1 tribunal:1 dismissed:1 extended:1 standard:1 complied:1 respondent:1 satisfied:1 order:1 set:1 
+order:2 money:1 successfully:1 proved:1 deems:1 434:1 earlier:1 claim:1 warranty:1 tribunal:1 dealt:1 extended:1 appropriate:1 s:1 work:1 completed:1 hearing:1 respondent:1 
+363669:1 pay:1 applicant:1 respondent:1 immediately:1 total:1 sum:1 
+application:1 dismissed:1 
